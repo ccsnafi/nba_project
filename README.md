@@ -46,6 +46,13 @@ streamlit run dashboard_app.py
 - Les arrières sont les plus gros scoreurs en moyenne
 - Notre modèle de régression permet de prédire le scoring avec R² ≈ 0.70
 
+## 📊 Moyenne des points par poste
+
+![Points par poste](img/points_par_poste.png)
+
+## 📈 Évolution des points par décennie
+
+![Points par décennie](img/points_par_decennie.png)
 ## 📦 Outils
 - Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Streamlit
 - LLM utilisé : ChatGPT (support structuration & visualisation)
