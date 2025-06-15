@@ -48,7 +48,7 @@ streamlit run dashboard_app.py
 
 ## 📊 Moyenne des points par poste
 
-![Points par poste](points_par_poste.png)
+![Points par poste](image/points_par_decennie.png)
 
 ## 📈 Évolution des points par décennie
 
