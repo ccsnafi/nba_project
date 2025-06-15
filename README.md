@@ -2,7 +2,7 @@
 
 ## 👥 Membres du groupe
 - Afi TENUDA-EKLOU
-- Nom Prénom
+
 
 ## 📊 Description
 Ce projet explore les statistiques individuelles de la NBA depuis 1950. Nous avons analysé l’évolution du scoring, comparé les postes (G, F, C) et construit un modèle simple de prédiction du nombre de points par match selon le profil joueur.
