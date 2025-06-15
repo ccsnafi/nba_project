@@ -48,11 +48,11 @@ streamlit run dashboard_app.py
 
 ## 📊 Moyenne des points par poste
 
-![Points par poste](moyenne pts par piste.png)
+![Points par poste](points_par_poste.png)
 
 ## 📈 Évolution des points par décennie
 
-![Points par décennie](Evolution des point par match.png)
+![Points par décennie](image/points_par_decennie.png)
 ## 📦 Outils
 - Python, Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Streamlit
 - LLM utilisé : ChatGPT (support structuration & visualisation)
