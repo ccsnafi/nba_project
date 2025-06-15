@@ -21,9 +21,9 @@ streamlit run dashboard_app.py
 # 🏀 Analyse des Joueurs NBA depuis 1950
 
 ## 👥 Membres du groupe
-- AFI TENUDA-EKLOU
 - Afi TENUDA-EKLOU
 - Joyce Ashley MASSAH NSANGOU
+- Moesha FOTSO
 
 ## 📊 Description
 Ce projet explore les statistiques individuelles de la NBA depuis 1950. Nous avons analysé l’évolution du scoring, comparé les postes (G, F, C) et construit un modèle simple de prédiction du nombre de points par match selon le profil joueur.
